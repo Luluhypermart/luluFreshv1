@@ -496,6 +496,7 @@ const LOCKED_DEALS = [
   },
 ];
 
+
 LOCKED_DEALS.forEach((row) => {
   const mrp = Math.max(15, parseInt(row.oldGuess, 10) || 60);
   row.oldGuess = String(mrp);
