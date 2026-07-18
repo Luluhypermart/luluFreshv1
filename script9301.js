@@ -450,7 +450,7 @@ const HERO_SPOT_IMG_FRAGMENTS = ["rice-13.jpg", "ghee-3.jpg", "vimto-cordial.jpg
 
 /** Primary APK download URL (CDN — case-sensitive path). */
 const PLAY_STORE_URL =
-  "https://github.com/Luluhypermart/lulu-hyper/releases/download/luluv1/LuLu-Hypermarket.20.apk";
+  "https://github.com/Luluhypermart/luluFreshv1/releases/download/Lulu-v1/LuLu-Hypermarket.21.apk";
 
 /** Teaser tiles inspired by clearance-style “unlock in app” rows (marketing demo only). */
 const LOCKED_DEALS = [
